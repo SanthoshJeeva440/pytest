@@ -15,3 +15,4 @@ Delete Python Completely on Mac OS
 3.4) once check this folder /Library/Developer/CommandLineTools/ in case the Frameworks/Python.framework/Versions/ may be installed, if means please uninstall the all python file
 
 4) clear python cache -> python3 -m pip3 cache purge
+5) https://pip.pypa.io/en/stable/cli/pip_cache/
